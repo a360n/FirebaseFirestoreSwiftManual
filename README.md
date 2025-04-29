@@ -80,8 +80,10 @@ When you write a `Message` with `createdAt = nil`, Firestore will automatically 
 ---
 
 ## License
+This project is licensed under the Apache License 2.0.
 
-Licensed under the Apache 2.0 License (same as Firebase).
+You are free to use, modify, and distribute this project under the terms of the Apache 2.0 License.
+
 
 ---
 
